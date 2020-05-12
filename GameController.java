@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 
 public class GameController {
 	
-	final int SafeLandingVelocity = 5;
+	final int SafeLandingVelocity = 10;
 	
 	SpaceCraft craft;
 	
